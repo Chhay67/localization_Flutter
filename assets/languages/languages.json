@@ -1,0 +1,12 @@
+{
+  "en" : {
+    "title" : "Localization",
+    "des" : "English Language",
+    "hello" : "Hello!"
+  },
+  "km" : {
+    "title" : "មូលដ្ឋានីយកម្ម",
+    "des" : "ភាសារ ខ្មែរ",
+    "hello" : "សួស្តី!"
+  }
+}
